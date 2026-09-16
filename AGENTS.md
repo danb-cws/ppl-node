@@ -14,5 +14,6 @@
 
 - Make small, understandable changes.
 - Test hardware assumptions before building on them.
+- CSS: Never use Tailwind CSS. Prefer standards-based CSS and appropriate native CSS features.
 - Record significant decisions in `docs/decisions.md`.
 - Keep experiments separate from production firmware.
